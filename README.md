@@ -1,7 +1,3 @@
-
-# funchain-handling
-Manipulación de cadenas con programación funcional.
-=======
 Funchain-handling
 -----
 Documetación en Español.
