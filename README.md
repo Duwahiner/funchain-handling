@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # funchain-handling
 Manipulación de cadenas con programación funcional.
 =======
@@ -154,4 +154,4 @@ Esta es un objeto que contiene unos metodos utiles por si deseas usar.
 ## License
 
 slang is licensed under the MIT license.
->>>>>>> mi primero repositorio 2
+
